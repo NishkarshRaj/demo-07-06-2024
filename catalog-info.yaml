@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demo-07-06-2024"
+  description: "Lorem Ipsum"
+  annotations:
+    github.com/project-slug: NishkarshRaj/demo-07-06-2024
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "group:default/seocommon_pf"
